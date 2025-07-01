@@ -154,6 +154,7 @@
   padding: 0;
   align-self: center;
   transition: border 0.3s ease;
+  height: 38px;
 }
 
 .card__like-button {
@@ -162,7 +163,6 @@
   text-align: center;
   height: 38px;
   min-width: 130px;
-  text-align: center;
 }
 
 .button__text {
